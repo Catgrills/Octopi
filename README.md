@@ -33,7 +33,12 @@ Instruction
 <li><b>(NEW) STYLUS ONLY</b> : Import <a href="https://mega.nz/#F!4TIBUTaK!68UQF79dszA23h5snooTRw">octopi-b.json</a> in Stylus by clicking the button <i>Import Styles</i>. You can change theme by clicking the gear icon next to the script name in the managment styles page.</li>
 </ol>
 
-<strong>Step 3 : Install the font </strong>
+<strong>Step 3 : Install others script </strong>
+<ol>
+<li><a href="https://greasyfork.org/en/scripts/36989-animebytes-misc-edition">AnimeBytes : Misc Edition</a>
+</ol>
+
+<strong>Step 4 : Install the font </strong>
 
 I use several fonts for my custom stylesheet.
 <ol>
@@ -42,7 +47,7 @@ I use several fonts for my custom stylesheet.
 <li> <a href="https://www.fontsquirrel.com/fonts/roboto">Roboto</a></li>
 </ol>
 
-<strong>Step 4 : Show your appreciation </strong>
+<strong>Step 5 : Show your appreciation </strong>
 <ol>
 <li>Feel free to comment this submission (critique, suggestion, compliment, etc).</li>
 <li>If you like my works, don't hesitate to watch me.</li>
