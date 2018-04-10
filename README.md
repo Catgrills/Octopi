@@ -1,6 +1,6 @@
 # Octopi-B
 
-<img src="AnimeBytes_thumb_light.png" width="100%">
+<img src="AnimeBytes_thumb_light.png" width="50%">
 
 Preview of <i>Octopi-B</i> available <a href="https://animebytes.tv/forums.php?action=viewthread&threadid=23473">here</a>.
 
