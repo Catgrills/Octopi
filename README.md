@@ -30,7 +30,7 @@ Instruction
 <ol>
 <li> Via userstyles (<a href="https://userstyles.org/styles/158323/octopi-b-light-animebytes-css">light version</a> or <a href="https://userstyles.org/styles/158322/octopi-b-dark-animebytes-css">dark version</a>) : click the button <i>install Style</i> and it's done.</li>
 <li> Or manually (<a href="https://pastebin.com/31PFdq6w">light version</a> or <a href="https://pastebin.com/7XaPFTVG">dark version</a>) : create a new style in Stylish/Stylus and copy/paste the script in it. The script was written for Firefox Mozilla, that's why for Google Chrome and such, you'll have to click the button <i>Import from Mozilla.</i></li>
-<li><b>(NEW) STYLUS ONLY</b> : [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.Catgrills.com/Octopi-B/master/octopi-b.user.css)
+<li><b>(NEW) STYLUS ONLY</b> : [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/Catgrills/Octopi-B/master/octopi-b.user.css)
 </ol>
 
 <strong>Step 3 : Install others script </strong>
