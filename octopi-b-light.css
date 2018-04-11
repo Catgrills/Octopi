@@ -251,11 +251,12 @@
 		background: #3D8EB9 !important;
 	}
 
-	.alertbar.message {
-		background: #263D4E !important;
+	.message,
+        .friend_request {
 		border: none !important;
 		border-radius: 2px !important;
 		box-shadow: 0px 1px 2px rgba(0, 0, 0, .2) !important;
+		color: #FFF !important;
 		font-size: 15pt !important;
 		font-stretch: condensed !important;
 		font-weight: normal !important;
@@ -265,16 +266,26 @@
 		right: 20px !important;
 	}
 
-	.alertbar.profile_comment {
+	.message {
+		background: #263D4E !important;        
+	}
+
+	.friend_request {
+		background: #6AB04C !important;
+	}
+
+	.profile_comment {
+		background: #686DE0 !important;
 		font-size: 14pt !important;
 		font-stretch: condensed !important;
-		padding: 15px 20px !important;
+		padding: 15px 20px !imortant;
 		position: fixed !important;
 		right: 20px !important;
 		bottom: 10px !important;
 	}
 
-	.alertbar.message * {
+	.friend_request a,
+	.message * {
 		color: #FFF !important;
 	}
 
