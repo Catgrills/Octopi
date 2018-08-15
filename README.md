@@ -1,13 +1,13 @@
-# Octopi-B
+# Octopi
 
 <img src="AnimeBytes_thumb_light.png" width="50%">
 
-Preview of <i>Octopi-B</i> available <a href="https://animebytes.tv/forums.php?action=viewthread&threadid=23473">here</a>.
+Preview of <i>Octopi</i> available <a href="https://animebytes.tv/forums.php?action=viewthread&threadid=23473">here</a>.
 
 About
 -------------------------------
 
-<i>Octopi-B</i> is a custom stylesheet for </i>AnimeBytes</i> (compatible with Coalbytes and Tentacletastic).
+<i>Octopi</i> is a custom stylesheet for </i>AnimeBytes</i> (compatible with Coalbytes and Tentacletastic).
 
 Userstyles are CSS code designed to alter the appearance of one, some, or all sites.
 
@@ -15,18 +15,15 @@ Userstyles are CSS code designed to alter the appearance of one, some, or all si
 Instruction
 -------------------------------
 
-<strong>Step 1 : Install Stylish or Stylus</strong> 
+<strong>Step 1 : Install Stylus</strong> 
 
 <span>Depending of your browser.</span>
-+ for Mozilla Firefox : <a href="https://addons.mozilla.org/en-US/firefox/addon/stylish/">Stylish</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/styl-us/">Stylus</a></li>
-+ for Google Chrome : <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en">Stylish</a> or <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Stylus</a>
-+ for Opera : <a href="https://addons.opera.com/en/extensions/details/stylish/">Stylish</a> or <a href="https://addons.opera.com/en-gb/extensions/details/stylus/?display=en">Stylus</a>
-+ for Safari : <a href="http://sobolev.us/stylish/">Stylish</a>
-+ for Dolphin : <a href="https://play.google.com/store/apps/details?id=ru.pmmlabs.stylish&amp;hl=en">Stylish</a>
++ for <a href="https://addons.mozilla.org/en-US/firefox/addon/styl-us/">Mozilla Firefox</a></li>
++ for <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Google Chrome</a>
++ for <a href="https://addons.opera.com/en-gb/extensions/details/stylus/?display=en">Opera</a>
 
 <strong>Step 2 : Install the script </strong>
-+ Via <b>userstyles</b> : <a href="https://userstyles.org/styles/158322/octopi-b-dark-animebytes-css">Dark theme</a> or <a href="https://userstyles.org/styles/158323/octopi-b-light-animebytes-css">Light theme</a>
-+ Or directly with <b>Stylus</b> : <a href="https://raw.githubusercontent.com/Catgrills/Octopi-B/master/octopi-b.user.css">click here</a>
++ Directly with <b>Stylus</b> : <a href="https://raw.githubusercontent.com/Catgrills/Octopi/master/animebytes.user.css">click here</a>
 
 <strong>Step 3 : Install others script </strong>
 <ol>
