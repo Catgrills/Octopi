@@ -7,7 +7,7 @@ Preview of <i>Octopi</i> available <a href="https://animebytes.tv/forums.php?act
 About
 -------------------------------
 
-<i>Octopi</i> is a custom stylesheet for </i>AnimeBytes</i> (compatible with Coalbytes and Tentacletastic).
+<i>Octopi</i> is a user style for </i>AnimeBytes</i> (compatible with Coalbytes and Tentacletastic).
 
 Userstyles are CSS code designed to alter the appearance of one, some, or all sites.
 
